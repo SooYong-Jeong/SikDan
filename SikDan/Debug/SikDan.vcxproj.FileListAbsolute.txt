@@ -1,0 +1,2 @@
+D:\git_p\SikDan\SikDan\Debug\SikDan.exe
+D:\git_p\SikDan\SikDan\Debug\SikDan.pdb
